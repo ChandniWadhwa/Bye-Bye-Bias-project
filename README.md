@@ -21,3 +21,6 @@ Frontend: React.js, CSS, HTML
 Backend: Python, Flask
 
 Tools: Postman, Curl
+
+# Contributors
+Sarah Wagle, Deepika Anbalagan, Iya Sandhu
